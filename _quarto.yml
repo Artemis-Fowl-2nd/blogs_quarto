@@ -13,6 +13,8 @@ website:
         href: https://github.com/
       - icon: bluesky
         href: https://bsky.app/
+      - href: analysis.qmd
+        text: Analysis
 format:
   html:
     theme:
