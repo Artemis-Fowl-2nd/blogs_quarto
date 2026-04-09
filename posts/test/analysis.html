@@ -201,7 +201,7 @@ Multiple R-squared:  0.8123,    Adjusted R-squared:  0.806
 F-statistic: 129.8 on 4 and 120 DF,  p-value: &lt; 2.2e-16</code></pre>
 </div>
 </div>
-<p>This is a model constructed on the data. with an extremely low p value, it seems there is enough evidence to conclude a relation to the number of crashes occuring while the city is at certain tempreratures.</p>
+<p>This is a model constructed on the data. with an extremely low p value, it seems there is enough evidence to conclude a relation to the number of crashes occuring while the area is at certain tempreratures.</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(<span class="at">data =</span> grouped, <span class="fu">aes</span>(<span class="at">x =</span> temp, <span class="at">y =</span> counted)) <span class="sc">+</span></span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Adding transparency (alpha) and color makes overlapping points easier to see</span></span>
