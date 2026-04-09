@@ -1,9 +1,19 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Isaac Weyland"
 date: "2026-02-18"
-categories: [news, code, analysis]
+categories: [display, sql, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+
+I took the dataset from my other page, and worked on it to bring it up to third normal form [here](https://artemis-fowl-2nd.github.io/blogs_quarto/posts/test/).
+
+For this process, I created empty tables for the necessary sorting, and gave them columns with the appropriate data types for what they will hold. 
+![Database Table Configuration](Screenshot 2026-04-08 at 10.23.14 PM.png)
+
+Then, I inserted unique combinations of the appropriate columns, and connected them together with IDs.
+
+![Database Table Configuration](Screenshot 2026-04-08 at 10.22.59 PM.png)
+
+This makes the database much more efficient and standardized for storage and retrieval of data. It also makes it less convenient for my use, of extracting it for analysis. But this is more impressive. 

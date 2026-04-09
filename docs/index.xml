@@ -1973,7 +1973,7 @@ font-style: inherit;">geom_point</span>()</span></code></pre></div></div>
 </item>
 <item>
   <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
+  <dc:creator>Isaac Weyland</dc:creator>
   <link>https://your-website-url.example.com/posts/post-with-code/</link>
   <description><![CDATA[ 
 
@@ -1981,13 +1981,22 @@ font-style: inherit;">geom_point</span>()</span></code></pre></div></div>
 
 
 
-<p>This is a post with executable code.</p>
+<p>I took the dataset from my other page, and worked on it to bring it up to third normal form <a href="https://artemis-fowl-2nd.github.io/blogs_quarto/posts/test/">here</a>.</p>
+<p>For this process, I created empty tables for the necessary sorting, and gave them columns with the appropriate data types for what they will hold. <img src="https://your-website-url.example.com/posts/post-with-code/Screenshot 2026-04-08 at 10.23.14 PM.png" class="img-fluid" alt="Database Table Configuration"></p>
+<p>Then, I inserted unique combinations of the appropriate columns, and connected them together with IDs.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/post-with-code/Screenshot 2026-04-08 at 10.22.59 PM.png" class="img-fluid figure-img"></p>
+<figcaption>Database Table Configuration</figcaption>
+</figure>
+</div>
+<p>This makes the database much more efficient and standardized for storage and retrieval of data. It also makes it less convenient for my use, of extracting it for analysis. But this is more impressive.</p>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
+  <category>display</category>
+  <category>sql</category>
   <category>analysis</category>
   <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
   <pubDate>Wed, 18 Feb 2026 07:00:00 GMT</pubDate>
