@@ -3,7 +3,6 @@ title: "Post With Code"
 author: "Isaac Weyland"
 date: "2026-02-18"
 categories: [display, sql, analysis]
-image: "image.jpg"
 ---
 
 
